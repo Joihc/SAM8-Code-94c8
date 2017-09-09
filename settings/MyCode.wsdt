@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>MyCode/Release</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>251</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4342-16268</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>MyCode</ExpandedNode><ExpandedNode>MyCode/Head</ExpandedNode><ExpandedNode>MyCode/Head/74HC595.c</ExpandedNode><ExpandedNode>MyCode/Resource</ExpandedNode><ExpandedNode>MyCode/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27010-17071</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\config.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1198</SelStart><SelEnd>1198</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\74HC164.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>174</SelStart><SelEnd>180</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>70</SelStart><SelEnd>70</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\time.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>150</SelStart><SelEnd>150</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Resource\time.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>289</SelStart><SelEnd>289</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\main.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>708</SelStart><SelEnd>708</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Resource\adc.c</Filename><XPos>0</XPos><YPos>520</YPos><SelStart>12418</SelStart><SelEnd>12418</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Resource\74HC164.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>41</SelStart><SelEnd>41</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>961</SelStart><SelEnd>961</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\74HC595.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>354</SelStart><SelEnd>354</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Resource\74HC595.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>2000</SelStart><SelEnd>2000</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Resource\TM1629.c</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>1662</SelStart><SelEnd>1682</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Resource\PWM.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>56</SelStart><SelEnd>56</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\PWM.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>665</SelStart><SelEnd>665</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Head\TM1629.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>329</SelStart><SelEnd>329</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\SAM8-Code\main.c</Filename><XPos>0</XPos><YPos>1127</YPos><SelStart>24503</SelStart><SelEnd>24503</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\pf\iar3.2\SAM8\inc\ioS3F94C8.h</Filename><XPos>0</XPos><YPos>144</YPos><SelStart>2608</SelStart><SelEnd>2615</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-017d0868><key>iaridepm.enu1</key></Toolbar-017d0868></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>589</Bottom><Right>325</Right><x>-2</x><y>-2</y><xscreen>3822</xscreen><yscreen>5666</yscreen><sizeHorzCX>2654167</sizeHorzCX><sizeHorzCY>6935129</sizeHorzCY><sizeVertCX>227083</sizeVertCX><sizeVertCY>723378</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>183</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>185</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>226438</sizeHorzCY><sizeVertCX>2654167</sizeVertCX><sizeVertCY>6935129</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
